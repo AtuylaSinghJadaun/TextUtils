@@ -1,0 +1,32 @@
+.themeColorPicker{
+    display: none;
+}
+
+.labelStyle {
+    background: red;
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.labelStyle:hover{
+    transform: scale(120%) !important;
+}
+
+.black{
+    background: black;
+}
+.green{
+    background: #2E4F4F;
+}
+.pink{
+    background: #FFACAC;
+}
+.blue{
+    background: #0A2647;
+}
+.red{
+    background: #fe0000;
+}

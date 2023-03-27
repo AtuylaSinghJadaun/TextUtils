@@ -1,0 +1,11 @@
+
+.darkLightModeBtn{
+    /* text-align: center; */
+    display: flex !important;
+    justify-content: center !important;
+    align-content: center !important;
+}
+
+.darkLightLogo{
+    margin-right: 10px;
+}
